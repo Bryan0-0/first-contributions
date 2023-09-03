@@ -22,6 +22,7 @@
 - [Sujal suri](https://github.com/sujal-suri)
 - [Willy Wonka](https://github.com/massablaise)
 - [Kosumo] (https://github.com/masumo)
+- [Bryan] (https://github.com/Bryan0-0)
 - [Mark Bloomfield] (https://github.com/mjbloomfield)
 - [Gustavo Passarella] (https://github.com/Gunnar50)
 - [Philip Newby] (https://github.com/pnewby060)
